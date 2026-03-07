@@ -1,0 +1,22 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.RDataTmp*
+*.Rproj
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large data
+data/raw/
+datasets/*.csv
+datasets/*.csv.gz
+datasets/*.rds
+
+# Outputs
+outputs/
+
+# R Markdown generated output folders
+src/*_files/
